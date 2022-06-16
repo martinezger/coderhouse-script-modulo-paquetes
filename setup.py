@@ -7,5 +7,4 @@ setup(
     author= "Germán Martinez",
     author_email= "germand_m@hotmail.com",
     packages=["calculadoras"]
-    }
 )
